@@ -1,0 +1,6 @@
+D:\Francisco\Wilfredo\WILF\WILF\WILF.BE\bin\Debug\WILF.BE.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.BE\bin\Debug\WILF.BE.pdb
+D:\Francisco\Wilfredo\WILF\WILF\WILF.BE\obj\Debug\WILF.BE.csprojAssemblyReference.cache
+D:\Francisco\Wilfredo\WILF\WILF\WILF.BE\obj\Debug\WILF.BE.csproj.CoreCompileInputs.cache
+D:\Francisco\Wilfredo\WILF\WILF\WILF.BE\obj\Debug\WILF.BE.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.BE\obj\Debug\WILF.BE.pdb
