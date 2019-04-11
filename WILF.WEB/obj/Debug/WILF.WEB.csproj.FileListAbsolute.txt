@@ -1,0 +1,276 @@
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\ApplicationInsights.config
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\WILF.WEB.dll.config
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\WILF.WEB.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\WILF.WEB.pdb
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Antlr3.Runtime.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.AI.DependencyCollector.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.AI.Web.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.AI.WindowsServer.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.ApplicationInsights.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Newtonsoft.Json.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Net.Http.Formatting.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.Helpers.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.Http.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.Http.WebHost.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.Mvc.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.Optimization.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.Razor.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Deployment.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Razor.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\WebGrease.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.AI.DependencyCollector.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.AI.Web.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.AI.WindowsServer.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.ApplicationInsights.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Newtonsoft.Json.pdb
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Newtonsoft.Json.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Net.Http.Formatting.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.Helpers.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.Http.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.Http.WebHost.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.Mvc.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.Razor.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Deployment.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Razor.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\System.Web.Optimization.xml
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\Antlr3.Runtime.pdb
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\es\System.Web.Helpers.resources.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\es\System.Web.Http.resources.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\es\System.Web.Mvc.resources.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\es\System.Web.Razor.resources.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\es\System.Web.WebPages.resources.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\es\System.Web.Optimization.resources.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.csprojAssemblyReference.cache
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.csproj.CoreCompileInputs.cache
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.csproj.CopyComplete
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.pdb
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\WILF.BE.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\WILF.BL.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\WILF.DA.dll
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\WILF.BE.pdb
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\WILF.BL.pdb
+D:\Francisco\Wilfredo\WILF\WILF\WILF.WEB\bin\WILF.DA.pdb
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\ApplicationInsights.config
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.WEB.dll.config
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.WEB.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.WEB.pdb
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Antlr3.Runtime.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.Web.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Newtonsoft.Json.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Net.Http.Formatting.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Helpers.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Http.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Http.WebHost.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Mvc.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Optimization.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Razor.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Razor.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\WebGrease.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.BE.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.BL.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.DA.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.BE.pdb
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.BL.pdb
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.Web.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Newtonsoft.Json.pdb
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Newtonsoft.Json.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Net.Http.Formatting.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Helpers.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Http.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Http.WebHost.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Mvc.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Razor.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Razor.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Optimization.xml
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\Antlr3.Runtime.pdb
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.DA.pdb
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Helpers.resources.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Http.resources.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Mvc.resources.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Razor.resources.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.WebPages.resources.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Optimization.resources.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.csprojAssemblyReference.cache
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.csproj.CoreCompileInputs.cache
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.csproj.CopyComplete
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.dll
+C:\Francisco\WILFREDO_\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.pdb
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\ApplicationInsights.config
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.WEB.dll.config
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.WEB.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.WEB.pdb
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Antlr3.Runtime.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Newtonsoft.Json.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Helpers.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Http.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Mvc.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Optimization.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Razor.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\WebGrease.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.BE.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.BL.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.DA.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.BE.pdb
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.BL.pdb
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Newtonsoft.Json.pdb
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Newtonsoft.Json.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Helpers.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Http.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Mvc.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Razor.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Optimization.xml
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.DA.pdb
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Http.resources.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Razor.resources.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.csprojAssemblyReference.cache
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.csproj.CoreCompileInputs.cache
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.csproj.CopyComplete
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.dll
+C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.pdb
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\ApplicationInsights.config
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.WEB.dll.config
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.WEB.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.WEB.pdb
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Antlr3.Runtime.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.Web.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Newtonsoft.Json.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Helpers.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Http.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Mvc.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Optimization.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Razor.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\WebGrease.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.BE.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.BL.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.DA.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.BE.pdb
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.BL.pdb
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.Web.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Newtonsoft.Json.pdb
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Newtonsoft.Json.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Helpers.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Http.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Mvc.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Razor.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\System.Web.Optimization.xml
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\WILF.DA.pdb
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Helpers.resources.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Http.resources.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Mvc.resources.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Razor.resources.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.WebPages.resources.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\bin\es\System.Web.Optimization.resources.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.csprojAssemblyReference.cache
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.csproj.CoreCompileInputs.cache
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.csproj.CopyComplete
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.dll
+C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.WEB\obj\Debug\WILF.WEB.pdb

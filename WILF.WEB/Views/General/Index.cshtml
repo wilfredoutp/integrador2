@@ -1,0 +1,136 @@
+﻿
+@{
+    ViewBag.Title = "Registro de Especie";
+}
+<div class="section__content section__content--p30">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12 col-md-12 col-lg-12">
+                <div class="card">
+                    <div class="card-header">Añadir Animal</div>
+                    <div class="card-body">
+                        <form id="frmespecie" method="post" onsubmit="return SaveEspecie()">
+                            <input type="hidden" id="idespecie" />
+                            <div class="row">
+                                <div class="col-xs-12 col-md-6 col-lg-6">
+                                    <div class="form-group">
+                                        <label for="txtdescripcion" class="control-label mb-1">Tipo de animal</label>
+                                        <input id="txtdescripcion" name="txtdescripcion" type="text" class="form-control" required>
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-md-6 col-lg-6">
+                                    <div class="form-group">
+                                        <label for="selestado" class="control-label">Estado</label>
+                                        <select id="selestado" class="form-control" required>
+                                            <option value="">Seleccionar</option>
+                                            <option value="1">Activo</option>
+                                            <option value="0">Deshabilitado</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div  class="col-xs-4 col-md-4 col-lg-4 mx-auto">
+                                <button id="payment-button" type="submit" class="btn btn-lg btn-info btn-block">
+                                    <i class="fa fa-lock fa-lg"></i>&nbsp;
+                                    <span id="payment-button-amount">Registrar Especie</span>
+                                </button>
+                            </div>
+                        </form>
+                        <br />
+                        <div class="row" id="divtabla" style="display:none">
+                            <div class="col-xs-12">
+                                <!-- DATA TABLE-->
+                                <div class="table-responsive">
+                                    <table id="tblespecie" class="table table-borderless table-data3">
+                                        <thead>
+                                            <tr>
+                                                <th>Id</th>
+                                                <th>Descripción</th>
+                                                <th>Estado</th>
+                                                <th>Edit</th>
+                                                <th>Agregar Raza</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody></tbody>
+                                    </table>
+                                </div>
+                                <!-- END DATA TABLE                  -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Adicionar Raza</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form id="frmraza" method="post" onsubmit="return SaveRaza()">
+                <input type="hidden" id="idespecier" />
+                <input type="hidden" id="idraza" />
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6 col-lg-6">
+                            <div class="form-group">
+                                <label for="txtdescripcionr" class="control-label mb-1">Descripción</label>
+                                <input id="txtdescripcionr" name="txtdescripcion" type="text" class="form-control" required>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-md-6 col-lg-6">
+                            <div class="form-group">
+                                <label for="selestador" class="control-label">Estado</label>
+                                <select id="selestador" class="form-control" required>
+                                    <option value="">Seleccionar</option>
+                                    <option value="1">Activo</option>
+                                    <option value="0">Deshabilitado</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row" id="divtablar" style="display:none">
+                        <div class="col-xs-12">
+                            <!-- DATA TABLE-->
+                            <div class="table-responsive">
+                                <table id="tblraza" class="table table-borderless table-data3">
+                                    <thead>
+                                        <tr>
+                                            <th>Id</th>
+                                            <th>Descripción</th>
+                                            <th>Estado</th>
+                                            <th>Edit</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody></tbody>
+                                </table>
+                            </div>
+                            <!-- END DATA TABLE                  -->
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">Guardar</button>
+                    <button type="button" class="btn btn-secondary" onclick="RazaReset()">Limpiar</button>
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+@section beforeBodyEnd
+{
+    <script src="@Url.Content("~/Content/js/paciente/general.js")"></script>
+}
+
