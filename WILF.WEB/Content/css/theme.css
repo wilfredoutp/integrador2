@@ -14626,7 +14626,11 @@ section {
     background: #c5c5c5;
 }
     .img-cir img {
-        width: 115%;
+        width: 152%;
+        max-width: inherit;
+        margin: 0 auto;
+        position: relative;
+        left: -30%;
     }
     .img-40 {
         height: 40px;
