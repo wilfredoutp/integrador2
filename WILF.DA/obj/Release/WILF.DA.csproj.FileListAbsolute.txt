@@ -1,9 +1,0 @@
-C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.DA\bin\Release\WILF.DA.dll
-C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.DA\bin\Release\WILF.DA.pdb
-C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.DA\bin\Release\WILF.BE.dll
-C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.DA\bin\Release\WILF.BE.pdb
-C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.DA\obj\Release\WILF.DA.csprojAssemblyReference.cache
-C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.DA\obj\Release\WILF.DA.csproj.CoreCompileInputs.cache
-C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.DA\obj\Release\WILF.DA.csproj.CopyComplete
-C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.DA\obj\Release\WILF.DA.dll
-C:\Users\Lucho Guerra\Desktop\WILFREDO_\WILF\WILF\WILF.DA\obj\Release\WILF.DA.pdb
