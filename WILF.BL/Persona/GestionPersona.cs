@@ -19,7 +19,7 @@ namespace WILF.BL.Persona
                         BE.Usuario usuario = new BE.Usuario
                         {
                             IdPersona = persona.IdPersona,
-                            User = persona.Nombre,
+                            User = persona.Dni,
                             Password = persona.Dni,
                             IdPerfil = 2
                         };

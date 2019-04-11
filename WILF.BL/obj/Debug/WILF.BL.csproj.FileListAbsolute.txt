@@ -31,3 +31,14 @@ C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.BL\obj\Debug\WILF.B
 C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.BL\obj\Debug\WILF.BL.csproj.CopyComplete
 C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.BL\obj\Debug\WILF.BL.dll
 C:\Users\wilfredo\Desktop\WILFREDO_\WILFREDO_\WILF\WILF\WILF.BL\obj\Debug\WILF.BL.pdb
+C:\Users\Lucho Guerra\Desktop\PROYECTO_GIT\integrador2\WILF.BL\bin\Debug\WILF.BL.dll
+C:\Users\Lucho Guerra\Desktop\PROYECTO_GIT\integrador2\WILF.BL\bin\Debug\WILF.BL.pdb
+C:\Users\Lucho Guerra\Desktop\PROYECTO_GIT\integrador2\WILF.BL\bin\Debug\WILF.BE.dll
+C:\Users\Lucho Guerra\Desktop\PROYECTO_GIT\integrador2\WILF.BL\bin\Debug\WILF.DA.dll
+C:\Users\Lucho Guerra\Desktop\PROYECTO_GIT\integrador2\WILF.BL\bin\Debug\WILF.BE.pdb
+C:\Users\Lucho Guerra\Desktop\PROYECTO_GIT\integrador2\WILF.BL\bin\Debug\WILF.DA.pdb
+C:\Users\Lucho Guerra\Desktop\PROYECTO_GIT\integrador2\WILF.BL\obj\Debug\WILF.BL.csprojAssemblyReference.cache
+C:\Users\Lucho Guerra\Desktop\PROYECTO_GIT\integrador2\WILF.BL\obj\Debug\WILF.BL.csproj.CoreCompileInputs.cache
+C:\Users\Lucho Guerra\Desktop\PROYECTO_GIT\integrador2\WILF.BL\obj\Debug\WILF.BL.csproj.CopyComplete
+C:\Users\Lucho Guerra\Desktop\PROYECTO_GIT\integrador2\WILF.BL\obj\Debug\WILF.BL.dll
+C:\Users\Lucho Guerra\Desktop\PROYECTO_GIT\integrador2\WILF.BL\obj\Debug\WILF.BL.pdb
