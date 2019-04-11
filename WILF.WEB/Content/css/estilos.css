@@ -1,0 +1,84 @@
+/*.account2{
+    position: relative;
+}
+.img-dueno{
+    position: absolute;
+    bottom: 25%;
+    right: 30px;
+    max-width: 90px;
+    border: 4px solid white;
+}
+.img-dueno img{
+    display: block;
+    width: 100%;
+}*/
+
+.account2 {
+    position: relative;
+}
+
+.img-dueno {
+    position: absolute;
+    bottom: 25%;
+    right: 30px;
+    max-width: 90px;
+    border: 4px solid white;
+}
+
+    .img-dueno img {
+        display: block;
+        width: 100%;
+    }
+
+.logoimg {
+    max-width: 180px;
+    display: none;
+}
+
+.bglogin .page-content--bge5 {
+    height: 100vh;
+    width: 100%;
+    background-image: url('../../images/fondo.jpg');
+    background-size: cover;
+    /*background-position: 80% center;*/
+}
+
+.login-logo > a {
+    margin: 0 auto;
+    display: block;
+    max-width: 240px;
+}
+
+.login-content > h4 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header-button {
+    margin-left: auto;
+}
+
+.regpaciente, .btneditar {
+    background: #17a2b8;
+    color: white;
+    padding: 7px;
+    font-size: 12px;
+}
+.au-btn--green {
+    background: #19a8a4 !important;
+}
+@media (max-width: 991px) {
+    .logoimg {
+        display: block;
+    }
+
+    .header-mobile {
+        z-index: 10;
+        position: relative;
+    }
+
+    .header-desktop {
+        height: 78px;
+    }
+}
+
