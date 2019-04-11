@@ -1,0 +1,138 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<div class="section__content section__content--p30">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12 col-md-12 col-lg-12">
+                <div class="card">
+                    <div class="card-header">Buscar Cliente</div>
+                    <div class="card-body">
+                        <form id="frmespecie" method="post" onsubmit="return Buscar()">
+                            <input type="hidden" id="idespecie" />
+                            <div class="row">
+                                <div class="col-xs-12 col-md-4 col-lg-4">
+                                    <div class="form-group">
+                                        <label for="txtdni" class="control-label mb-1">DNI</label>
+                                        <input id="txtdni" name="txtdni" type="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-md-4 col-lg-4">
+                                    <div class="form-group">
+                                        <label for="txtnombre" class="control-label">Nombres</label>
+                                        <input id="txtnombre" name="txtnombre" type="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-md-4 col-lg-4">
+                                    <button id="payment-button" type="submit" class="btn btn-lg btn-info btn-block">
+                                        <i class="fa fa-lock fa-lg"></i>&nbsp;
+                                        <span id="payment-button-amount">Buscar Paciente</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                        <div class="row" id="divtabla" style="display:none">
+                            <div class="col-xs-12">
+                                <!-- DATA TABLE-->
+                                <div class="table-responsive">
+                                    <table id="tblpaciente" class="table table-borderless table-data3">
+                                        <thead>
+                                            <tr>
+                                                <th>DNI</th>
+                                                <th>Cliente</th>
+                                                <th>Nombre Paciente</th>
+                                                <th>Especie</th>
+                                                <th>Raza</th>
+                                                <th>Add Historia</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody></tbody>
+                                    </table>
+                                </div>
+                                <!-- END DATA TABLE                  -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 90%!important;" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Adicionar Raza</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="frmhisto" method="post" onsubmit="return Save()">
+                    <input type="hidden" id="idpaciente" />
+                    <input type="hidden" id="idhistorial" />
+                    <div class="row">
+                        <div class="col-xs-12 col-md-3 col-lg-3">
+                            <div class="form-group">
+                                <label for="txttrata" class="control-label mb-1">Tratamiento</label>
+                                <input id="txttrata" name="txttrata" type="text" class="form-control" required>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-md-3 col-lg-3">
+                            <div class="form-group">
+                                <label for="ardetalle" class="control-label mb-1">Tratamiento</label>
+                                <textarea id="ardetalle" name="ardetalle" type="text" class="form-control" cols="5" required></textarea>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-md-3 col-lg-3">
+                            <div class="form-group">
+                                <label for="selestado" class="control-label">Estado</label>
+                                <select id="selestado" class="form-control" required>
+                                    <option value="">Seleccionar</option>
+                                    <option value="1">Activo</option>
+                                    <option value="0">Deshabilitado</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-md-3 col-lg-3">
+                            <button id="payment-button" type="submit" class="btn btn-lg btn-info btn-block">
+                                <i class="fa fa-lock fa-lg"></i>&nbsp;
+                                <span id="payment-button-amount">Guardar</span>
+                            </button>
+                        </div>
+                    </div>
+                </form>
+                <div class="row" id="divtablah" style="display:none">
+                    <div class="col-xs-12">
+                        <!-- DATA TABLE-->
+                        <div class="table-responsive">
+                            <table id="tblhisto" class="table table-borderless table-data3">
+                                <thead>
+                                    <tr>
+                                        <th>Tratamiento</th>
+                                        <th>Detalle</th>
+                                        <th>Estado</th>
+                                        <th>Edit</th>
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+                        <!-- END DATA TABLE                  -->
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section beforeBodyEnd
+{
+    <script src="@Url.Content("~/Content/js/paciente/buscar.js")"></script>
+}
+

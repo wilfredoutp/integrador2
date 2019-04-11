@@ -1,0 +1,239 @@
+﻿
+@{
+    ViewBag.Title = "Registro de clientes";
+}
+
+<div class="section__content section__content--p30">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12 col-md-12 col-lg-12">
+                <div class="card">
+                    <div class="card-header">Añadir Cliente</div>
+                    <div class="card-body">
+                        <form id="frmpersona" method="post" onsubmit="return save()">
+                            <input type="hidden" id="idpersona" />
+                            <div class="row">
+                                <div class="col-xs-12 col-md-3 col-lg-3">
+                                    <div class="form-group">
+                                        <label for="txtdni" class="control-label mb-1">DNI</label>
+                                        <input id="txtdni" name="txtdni" type="text" class="form-control" required>
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-md-3 col-lg-3">
+                                    <div class="form-group">
+                                        <label for="txtnombre" class="control-label mb-1">Nombre</label>
+                                        <input id="txtnombre" name="txtnombre" type="text" class="form-control" required>
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-md-3 col-lg-3">
+                                    <div class="form-group">
+                                        <label for="txtappaterno" class="control-label mb-1">Apellido Paterno</label>
+                                        <input id="txtappaterno" name="txtappaterno" type="text" class="form-control" required>
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-md-3 col-lg-3">
+                                    <div class="form-group">
+                                        <label for="txtapmaterno" class="control-label">Apellido Materno</label>
+                                        <input id="txtapmaterno" name="txtapmaterno" type="text" class="form-control">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-12 col-md-3 col-lg-3">
+                                    <div class="form-group">
+                                        <label for="txtdireccion" class="control-label">Direción</label>
+                                        <input id="txtdireccion" name="txtdireccion" type="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-md-3 col-lg-3">
+                                    <div class="form-group">
+                                        <label for="txttelefono" class="control-label">Teléfono</label>
+                                        <input id="txttelefono" name="txttelefono" type="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-md-3 col-lg-3">
+                                    <div class="form-group">
+                                        <label for="txtemail" class="control-label">Email</label>
+                                        <input id="txtemail" name="txtemail" type="text" class="form-control" required>
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-md-3 col-lg-3">
+                                    <div class="form-group">
+                                        <label for="selestado" class="control-label">Estado</label>
+                                        <select id="selestado" class="form-control" required>
+                                            <option value="">Seleccionar</option>
+                                            <option value="1">Activo</option>
+                                            <option value="0">Deshabilitado</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-12 col-md-6 col-lg-6">
+                                    <div class="row form-group">
+                                        <label for="file-input" class="control-label">File input</label>
+                                        <input type="file" id="file-input" accept="image/png,image/jpeg" name="file-input" class="form-control-file">
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-md-6 col-lg-6">
+                                    <div class="row form-group">
+                                        <label for="txtruta" class="control-label">Ruta Imagen</label>
+                                        <input id="txtruta" name="txtruta" type="text" class="form-control" readonly required>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div>
+                                <button id="payment-button" type="submit" class="btn btn-lg btn-info btn-block">
+                                    <i class="fa fa-lock fa-lg"></i>&nbsp;
+                                    <span id="payment-button-amount">Registrar cliente</span>
+                                </button>
+                            </div>
+                        </form>
+                        <br />
+                        <div class="row" id="divtabla" style="display:block">
+                            <div class="col-xs-12">
+                                <!-- DATA TABLE-->
+                                <div class="table-responsive">
+                                    <table id="tblcliente" class="table table-borderless table-data3">
+                                        <thead>
+                                            <tr>
+                                                <th>DNI</th>
+                                                <th>Nombres</th>
+                                                <th>Apellido Paterno</th>
+                                                <th>Apellido Materno</th>
+                                                <th>Dirección</th>
+                                                <th>Teléfono</th>
+                                                <th>Email</th>
+                                                <th>Estado</th>
+                                                <th>Edit</th>
+                                                <th>Add Paciente</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody></tbody>
+                                    </table>
+                                </div>
+                                <!-- END DATA TABLE                  -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" style="max-width: 90%!important;" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Adicionar Paciente</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form id="frmpaciente" method="post" onsubmit="return SavePaciente()">
+                <input type="hidden" id="idpersonap" />
+                <input type="hidden" id="idpaciente" />
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-4 col-lg-4">
+                            <div class="form-group">
+                                <label for="selespecie" class="control-label mb-1">Espacie</label>
+                                <select id="selespecie" class="form-control" required>
+                                    <option value="">Seleccionar</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-md-4 col-lg-4">
+                            <div class="form-group">
+                                <label for="selraza" class="control-label">Raza</label>
+                                <select id="selraza" class="form-control" required>
+                                    <option value="">Seleccionar</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-md-4 col-lg-4">
+                            <div class="form-group">
+                                <label for="txtnombrera" class="control-label">Nombre</label>
+                                <input id="txtnombrera" type="text" class="form-control" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12 col-md-4 col-lg-4">
+                            <div class="form-group">
+                                <label for="txtnacimiento" class="control-label">Fecha de nacimiento</label>
+                                <input id="txtnacimiento" type="date" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-md-4 col-lg-4">
+                            <div class="form-group">
+                                <label for="txteda" class="control-label">Edad</label>
+                                <input id="txteda" type="text" class="form-control" readonly />
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-md-4 col-lg-4">
+                            <div class="form-group">
+                                <label for="selestador" class="control-label">Estado</label>
+                                <select id="selestador" class="form-control" required>
+                                    <option value="">Seleccionar</option>
+                                    <option value="1">Activo</option>
+                                    <option value="0">Deshabilitado</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6 col-lg-6">
+                            <div class="row form-group">
+                                <label for="fileinputr" class="control-label">File input</label>
+                                <input type="file" id="fileinputr" accept="image/png,image/jpeg" name="fileinputr" class="form-control-file">
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-md-6 col-lg-6">
+                            <div class="row form-group">
+                                <label for="txtrutap" class="control-label">Ruta Imagen</label>
+                                <input id="txtrutap" name="txtrutap" type="text" class="form-control" readonly required>
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row" id="divpaciente" style="display:none">
+                        <div class="col-xs-12">
+                            <!-- DATA TABLE-->
+                            <div class="table-responsive">
+                                <table id="tblpaciente" class="table table-borderless table-data3">
+                                    <thead>
+                                        <tr>
+                                            <th>Nombre</th>
+                                            <th>Fecha Nacimiento</th>
+                                            <th>Edad</th>
+                                            <th>Estado</th>
+                                            <td>Edit</td>
+                                        </tr>
+                                    </thead>
+                                    <tbody></tbody>
+                                </table>
+                            </div>
+                            <!-- END DATA TABLE                  -->
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">Guardar</button>
+                    <button type="button" class="btn btn-secondary" onclick="PacienteReset()">Limpiar</button>
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@section beforeBodyEnd
+{
+    <script src="@Url.Content("~/Content/js/cliente/cliente.js")"></script>
+}
