@@ -1,13 +1,6 @@
 /*.account2{
     position: relative;
 }
-.img-dueno{
-    position: absolute;
-    bottom: 25%;
-    right: 30px;
-    max-width: 90px;
-    border: 4px solid white;
-}
 .img-dueno img{
     display: block;
     width: 100%;
