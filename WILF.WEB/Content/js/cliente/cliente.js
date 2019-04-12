@@ -16,6 +16,8 @@ function save() {
     if ($("#txtappaterno").val() == '') s += 'Debe de ingresar un apellido paterno\n';
     if ($("#txtemail").val() == '') s += 'Debe de ingresar el correo electronico\n';
     if (s != '') { alert(s); return false; }
+
+
     var cli = {};
     cli.IdPersona = $("#idpersona").val();
     cli.Dni = $("#txtdni").val();
